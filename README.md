@@ -50,7 +50,3 @@ python main.py
 4. Añade **restricciones** (coeficientes, tipo ≤/≥/= y término derecho).
 5. Pulsa **RESOLVER** para ver la solución, las iteraciones del simplex y la gráfica (si hay 2 variables).
 6. Usa **Exportar a PDF** para guardar el informe completo.
-
-## Licencia
-
-Proyecto educativo. Uso libre según criterio del autor.
