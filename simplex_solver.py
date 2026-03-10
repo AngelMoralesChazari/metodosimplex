@@ -5,7 +5,7 @@ import copy
 
 class SolucionadorSimplex:
     def __init__(self):
-        self.iteraciones = []  # Lista de tablas simplex en cada iteración
+        self.iteraciones = [] 
         self.solucion = None
         self.valor_optimo = None
         self.estado = None  # 'optimal', 'unbounded', 'infeasible'
