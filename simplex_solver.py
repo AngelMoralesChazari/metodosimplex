@@ -8,7 +8,7 @@ class SolucionadorSimplex:
         self.iteraciones = [] 
         self.solucion = None
         self.valor_optimo = None
-        self.estado = None  # 'optimal', 'unbounded', 'infeasible'
+        self.estado = None 
         self.variables = []
         self.variables_basicas = []
         
